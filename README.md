@@ -1,7 +1,7 @@
 # The Office 2048
 A small clone of [2048](https://play2048.co) (which, in turn, was inspired by [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024)), based on the hit American TV show, **The Office**.
 
-Made just for fun. [Play it here!](http://ravjitsingh.github.io/theoffice2048/)
+Made just for fun. [Play it here!](http://www.theoffice2048.com/)
 
 **Important note:** This game is made just for fun and neither affliated to NBC nor aims to make any kind of money off of The Office IP.
 
@@ -15,9 +15,10 @@ The cookie information dialogue used is a free-to-use JavaScript plug-in develop
 
 ### Version History
 
-24/04 - Initial Commit.\
-25/04 - Optimised GIFs by 20% to load faster on slow network speeds, replaced certain WebP format files with GIFs for Safari and Firefox support and added Apple startup images.\
-26/04 - Changed cookieBubble design elements.
+24/04/20 - Initial Commit.\
+25/04/20 - Optimised GIFs by 20% to load faster on slow network speeds, replaced certain WebP format files with GIFs for Safari and Firefox support and added Apple startup images.\
+26/04/20 - Changed cookieBubble design elements.\
+11/04/21 - Linked a custom domain to the project.
 
 ### Platforms Tested
 
